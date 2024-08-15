@@ -1,4 +1,4 @@
-"""Функция вычисления сложных процентов"""
+"""Функция вычисления сложных процентов. Сложность O(N)."""
 
 
 def compound(amount, year_percent, months):
@@ -11,7 +11,7 @@ def compound(amount, year_percent, months):
 
 print(compound(100000, 10, 12))
 
-"""Функция вычисления сложных процентов"""
+"""Функция вычисления сложных процентов. Сложность O(1)."""
 
 
 def compound2(amount, year_percent, months):
