@@ -1,3 +1,3 @@
 # Algorithms in Python
-Python 3.11
-Virtualvenv: env
+1. Python 3.11
+2. Virtualvenv: env
